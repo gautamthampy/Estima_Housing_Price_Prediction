@@ -1,3 +1,3 @@
 # Prediction REST Api
 
-link 🠒 https://bapp-api.onrender.com/
+link 🠒 https://estima.onrender.com/
