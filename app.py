@@ -4,8 +4,8 @@ import util
 app = Flask(__name__)
 
 @app.route('/',methods=['GET'])
-def hello_world():
-    return 'Welcome to Bangalore Housing Price Fetcher Server🤳'
+def greetings():
+    return 'Welcome to Estima Server🤳'
 
 @app.route('/getlocation',methods=['GET'])
 def getlocation():
